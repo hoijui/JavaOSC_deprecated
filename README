@@ -1,3 +1,9 @@
+## Deprecated
+
+> This project is **deprecated**, meaning it is superseeded/outdated by a newer version.
+
+Please go to [the new project site](https://github.com/hoijui/JavaOSC).
+
 ## Overview
 
 JavaOSC is a library for communicating through the OSC protocol in Java.
