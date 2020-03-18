@@ -1,8 +1,8 @@
 ## Deprecated
 
-> This project is **deprecated**, meaning it is superseeded/outdated by a newer version.
+This project is **deprecated**, meaning it is superseeded/outdated by a newer version.
 
-Please go to [the new project site](https://github.com/hoijui/JavaOSC).
+Please go to [***the new repo***](https://github.com/hoijui/JavaOSC).
 
 ## Overview
 
